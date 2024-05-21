@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.68/win64" 1715448614
+<REAPER_PROJECT 0.1 "6.68/win64" 1715448947
   <NOTES 0 2
   >
   RIPPLE 0
@@ -30,7 +30,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "C:\Users\nigga\reaper-media\dj-ernia\mp3\tgaome-click.mp3"
+  RENDER_FILE "C:\Users\nigga\reaper-media\dj-ernia\mp3\tgaome-con-click.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -2114,7 +2114,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 3.98107170553497 0 -1 -1 1
-    MUTESOLO 0 2 0
+    MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -3941,7 +3941,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
